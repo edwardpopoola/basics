@@ -1,4 +1,8 @@
 This is from the test1 branch
 Adding content to newfile 1
+<<<<<<< HEAD
 This is from the master branch
 This is from the test1 branch
+=======
+A 3rd line to newfile1
+>>>>>>> master
